@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.takeway.player1.Player1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.131 sec - in com.takeway.player1.Player1ApplicationTests

@@ -1,0 +1,6 @@
+com\takeway\player1\models\Pass.class
+com\takeway\player1\listners\ApplicationReady.class
+com\takeway\player1\controllers\RecieveController.class
+com\takeway\player1\Player1Application.class
+com\takeway\player1\configuration\GameProperties.class
+com\takeway\player1\asycnServices\ASyncService.class

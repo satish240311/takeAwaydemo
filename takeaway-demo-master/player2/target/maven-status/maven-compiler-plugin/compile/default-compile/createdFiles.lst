@@ -1,0 +1,5 @@
+com\takeaway\player2\asycnServices\ASyncService.class
+com\takeaway\player2\configuration\GameProperties.class
+com\takeaway\player2\Player2Application.class
+com\takeaway\player2\controllers\RecieveController.class
+com\takeaway\player2\models\Pass.class

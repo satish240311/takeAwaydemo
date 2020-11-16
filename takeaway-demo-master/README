@@ -6,15 +6,11 @@
    setting custom score by adding command line parmas --game.initialScore=<intial score> and it will start automaticly with this score 
    
  - both players are single jar file so can be easly run on any environment
-Use Maven commands to build 
- cd Java\ Projects-learning/takeaway/player1
- 
- Use command  mvn clean install package to generate jar file in target folder for both player1 and player 2.
- 
-
+   Use Maven commands to build. 
+   Use command  mvn clean install package to generate jar file in target folder for both player1 and player 2.
 
 ## how to start
  java -jar player2-0.0.1-SNAPSHOT.jar
  java -jar player1-0.0.1-SNAPSHOT.jar 
- start player 2 first  player one will start the game directly once server started    and you can see player 1 started the game
+ start player 2 first  player one will start the game directly once server started  and you can see player 1 started the game
 
